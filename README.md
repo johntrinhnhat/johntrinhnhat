@@ -1,5 +1,4 @@
 ![Studio_Project_V1](https://github.com/johntrinhnhat/johntrinhnhat/assets/116620830/3e203ffd-3640-4bcf-b70a-2d32c62d2042)
-![2023-07-07-13-47-14](https://github.com/johntrinhnhat/johntrinhnhat/assets/116620830/35f74410-9582-404d-a51d-47f742c89b0b)
 
 Hi 👋 My name is Khoi Trinh
 ===========================
