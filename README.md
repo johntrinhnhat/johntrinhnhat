@@ -1,8 +1,8 @@
-![portfolio](https://github.com/johntrinhnhat/johntrinhnhat.github.io/assets/116620830/a7fd8521-cb24-4f07-9d7a-1323f3cd907e)
+![Studio_Project_V1](https://github.com/johntrinhnhat/johntrinhnhat/assets/116620830/3e203ffd-3640-4bcf-b70a-2d32c62d2042)
+
 
 Hi 👋 My name is Khoi Trinh
 ===========================
-![Studio_Project_V1](https://github.com/johntrinhnhat/johntrinhnhat/assets/116620830/3e203ffd-3640-4bcf-b70a-2d32c62d2042)
 
 Full-Stack Developer
 --------------------
