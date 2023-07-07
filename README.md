@@ -6,7 +6,11 @@ Hi 👋 My name is Khoi Trinh
 Full-Stack Developer
 --------------------
 
-As I continue to forge my path as a full-stack developer, I eagerly anticipate the opportunity to collaborate with like-minded professionals, contributing my skills and expertise to create innovative solutions. With my unwavering passion for coding, my ambition knows no bounds, and I am confident that my dedication and proficiency will make me a valuable asset to any team. Thank you for taking the time to learn about me as a full-stack developer. I am excited about the possibilities ahead and look forward to the chance to make a significant impact in the world of technology.
+As I continue to forge my path as a full-stack developer, I eagerly anticipate the opportunity to collaborate with like-minded professionals, contributing my skills and expertise to create innovative solutions. 
+
+With my unwavering passion for coding, my ambition knows no bounds, and I am confident that my dedication and proficiency will make me a valuable asset to any team.
+
+Thank you for taking the time to learn about me as a full-stack developer. I am excited about the possibilities ahead and look forward to the chance to make a significant impact in the world of technology.
 
 *   🌍  I'm based in Toronto, Canada
 *   ✉️  You can contact me at [johntrinhnhat@gmail.com](mailto:johntrinhnhat@gmail.com)
