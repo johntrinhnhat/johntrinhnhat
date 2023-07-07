@@ -1,5 +1,4 @@
-![449aed4a-eac1-4ecf-95d1-a52629794607](https://github.com/johntrinhnhat/johntrinhnhat/assets/116620830/c260e846-aa5d-4b77-b19d-2f3dcb845286)
-![2023-07-07_13-47-14_AdobeExpress](https://github.com/johntrinhnhat/johntrinhnhat/assets/116620830/13d5f140-b09f-48b7-b0ed-abeebcf94dcb = 1280x620)
+![Studio_Project_V1](https://github.com/johntrinhnhat/johntrinhnhat/assets/116620830/3e203ffd-3640-4bcf-b70a-2d32c62d2042)
 
 Hi 👋 My name is Khoi Trinh
 ===========================
