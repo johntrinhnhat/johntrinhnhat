@@ -3,6 +3,9 @@ Hi 👋 My name is Khoi Trinh
 
 Full-Stack Developer
 --------------------
+![portfolio](https://github.com/johntrinhnhat/johntrinhnhat.github.io/assets/116620830/a7fd8521-cb24-4f07-9d7a-1323f3cd907e)
+
+<img src=""
 
 As I continue to forge my path as a full-stack developer, I eagerly anticipate the opportunity to collaborate with like-minded professionals, contributing my skills and expertise to create innovative solutions. With my unwavering passion for coding, my ambition knows no bounds, and I am confident that my dedication and proficiency will make me a valuable asset to any team. Thank you for taking the time to learn about me as a full-stack developer. I am excited about the possibilities ahead and look forward to the chance to make a significant impact in the world of technology.
 
