@@ -1,5 +1,8 @@
 ![Studio_Project_V1](https://github.com/johntrinhnhat/johntrinhnhat/assets/116620830/3e203ffd-3640-4bcf-b70a-2d32c62d2042)
-![2023-07-07-13-47-14](https://github.com/johntrinhnhat/johntrinhnhat/assets/116620830/a22b0652-9877-45e5-9ad3-2f590b21c979)
+
+
+https://github.com/johntrinhnhat/johntrinhnhat/assets/116620830/ba42e384-b66a-483e-b48e-c249c6ef65f9
+
 
 
 Hi 👋 My name is Khoi Trinh
