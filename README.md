@@ -1,3 +1,5 @@
+![portfolio](https://github.com/johntrinhnhat/johntrinhnhat.github.io/assets/116620830/a7fd8521-cb24-4f07-9d7a-1323f3cd907e)
+
 Hi 👋 My name is Khoi Trinh
 ===========================
 
