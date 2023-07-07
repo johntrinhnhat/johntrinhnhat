@@ -2,6 +2,7 @@
 
 Hi 👋 My name is Khoi Trinh
 ===========================
+![Studio_Project_V1](https://github.com/johntrinhnhat/johntrinhnhat/assets/116620830/3e203ffd-3640-4bcf-b70a-2d32c62d2042)
 
 Full-Stack Developer
 --------------------
