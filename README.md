@@ -1,22 +1,22 @@
 ![Studio_Project_V1](https://github.com/johntrinhnhat/johntrinhnhat/assets/116620830/3e203ffd-3640-4bcf-b70a-2d32c62d2042)
 
-Hi 👋 My name is Khoi Trinh
-===========================
+# Hi 👋 My name is Khoi Trinh
 
-Full-Stack Developer
---------------------
+## Full-Stack Developer
 
-As I continue to forge my path as a full-stack developer, I eagerly anticipate the opportunity to collaborate with like-minded professionals, contributing my skills and expertise to create innovative solutions. 
+As I continue to forge my path as a full-stack developer, I eagerly anticipate the opportunity to collaborate with like-minded professionals, contributing my skills and expertise to create innovative solutions.
 
 With my unwavering passion for coding, my ambition knows no bounds, and I am confident that my dedication and proficiency will make me a valuable asset to any team.
 
 Thank you for taking the time to learn about me as a full-stack developer. I am excited about the possibilities ahead and look forward to the chance to make a significant impact in the world of technology.
 
-*   🌍  I'm based in Toronto, Canada
-*   ✉️  You can contact me at [johntrinhnhat@gmail.com](mailto:johntrinhnhat@gmail.com)
-*   🧠  I'm learning Cloud Computing
-*   🤝  I'm open to collaborating on any projects
-  ### Skills 
+- 🌍  I'm based in Toronto, Canada
+- ✉️  You can contact me at [johntrinhnhat@gmail.com](mailto:johntrinhnhat@gmail.com)
+- 🧠  I'm learning Cloud Computing
+- 🤝  I'm open to collaborating on any projects
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -40,4 +40,7 @@ Thank you for taking the time to learn about me as a full-stack developer. I am 
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johntrinhnhat&theme=dark&background=000000)](https://git.io/streak-stats)
