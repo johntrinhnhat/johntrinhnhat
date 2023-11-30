@@ -12,7 +12,7 @@ Thank you for taking the time to learn about me as a full-stack developer. I am 
 
 - 🌍  I'm based in Toronto, Canada
 - ✉️  You can contact me at [johntrinhnhat@gmail.com](mailto:johntrinhnhat@gmail.com)
-- 🧠  I'm learning Cloud Computing
+- 🧠  I'm learning Deep Learning, AI, Machine Learning
 - 🤝  I'm open to collaborating on any projects
 
 ### Skills
